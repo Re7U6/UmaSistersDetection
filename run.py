@@ -181,7 +181,7 @@ def main():
     # タイトルの表示
     st.title("ウマ娘 三姉妹　顔認識")
     # 制作者の表示
-    st.text("Created by Re7U6")
+    st.text("Created by ek1den2")
     # アプリの説明の表示
     st.markdown("""### シュヴァルグラン・ヴィブロス・ヴィルシーナを識別""")
 
